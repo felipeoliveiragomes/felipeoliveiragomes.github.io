@@ -107,6 +107,12 @@
   max-width: 225px;
 }
 
+#cv-container a {
+  color: #54B689;
+  text-decoration: none;
+  max-width: 225px;
+}
+
 #email-container ion-icon {
   color: var(--main-color);
   font-size: 20px;
